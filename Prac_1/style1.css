@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: pink;
+    height: 100vh;
+}
+
+#hidipika{
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: blueviolet;
+    font-size: 18px
+}
+#hidipika:hover{
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+#hikc{
+    height: auto;
+    width: auto;
+    border:none;
+    border-radius: 5px;
+    background-color: paleturquoise;
+    font-size: 18px;
+}
+#hikc:hover{
+    border: 2px solid black;
+    font-size: 20px;
+}
